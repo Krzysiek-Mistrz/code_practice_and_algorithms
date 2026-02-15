@@ -1,0 +1,3 @@
+[submodule "CoreConcepts"]
+	path = CoreConcepts
+	url = git@github.com:Krzysiek-Mistrz/core_algorithm_coding_concepts.git

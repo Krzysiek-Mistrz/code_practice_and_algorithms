@@ -1,0 +1,36 @@
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+
+# Build artifacts (C# / .NET)
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# C++
+*.o
+*.obj
+*.out
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
